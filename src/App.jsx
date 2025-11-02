@@ -1,6 +1,6 @@
 import HeroSection from './HeroSection'
 import AboutSection from './AboutSection'
-import Slider from './Slider'
+
 import Contact from './Contact'
 import Navbar from './Navbar'
 import Footer from './Footer'
