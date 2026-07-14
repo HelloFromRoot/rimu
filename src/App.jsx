@@ -32,11 +32,11 @@ export default function Home() {
   ];
 
   const socials = [
-    { name: 'LinkedIn', icon: <Linkedin className="w-5 h-5" />, url: 'https://linkedin.com/in/yourprofile', color: 'hover:text-blue-400' },
-    { name: 'YouTube', icon: <Youtube className="w-5 h-5" />, url: 'https://youtube.com/@yourchannel', color: 'hover:text-red-500' },
-    { name: 'Facebook', icon: <Facebook className="w-5 h-5" />, url: 'https://facebook.com/yourpage', color: 'hover:text-blue-600' },
-    { name: 'Twitter', icon: <Twitter className="w-5 h-5" />, url: 'https://twitter.com/yourhandle', color: 'hover:text-sky-400' },
-    { name: 'Instagram', icon: <Instagram className="w-5 h-5" />, url: 'https://instagram.com/yourprofile', color: 'hover:text-pink-500' },
+    { name: 'LinkedIn', icon: <Linkedin className="w-5 h-5" />, url: 'https://www.linkedin.com/in/coresiteva/', color: 'hover:text-blue-400' },
+    { name: 'YouTube', icon: <Youtube className="w-5 h-5" />, url: 'https://www.youtube.com/@CoreSiteVA', color: 'hover:text-red-500' },
+    // { name: 'Facebook', icon: <Facebook className="w-5 h-5" />, url: 'https://facebook.com/yourpage', color: 'hover:text-blue-600' },
+    // { name: 'Twitter', icon: <Twitter className="w-5 h-5" />, url: 'https://twitter.com/yourhandle', color: 'hover:text-sky-400' },
+    // { name: 'Instagram', icon: <Instagram className="w-5 h-5" />, url: 'https://instagram.com/yourprofile', color: 'hover:text-pink-500' },
   ];
 
   return (
